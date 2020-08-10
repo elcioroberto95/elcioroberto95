@@ -1,7 +1,7 @@
 # Ola ! / Hi ! 👋
-🔭 Atualmente trabalhando como desenvolvedor web free-lance,front-end e back-end;<br>
-💻 Faço faculdade de analise e desenvolvimento de sistemas na FATEC-Americana; <br>
-⚡Meu maior passatempo nos dias atuais é  me aprofundar mais no conhecimento de desenvolvimento web.<br>
+🔭 Atualmente trabalhando como <b>desenvolvedor web free-lance</b>,front-end e back-end;<br>
+💻 Faço faculdade de <b>Análise e desenvolvimento de sistemas</b> na FATEC-Americana; <br>
+⚡Meu maior passatempo nos dias atuais é  me aprofundar mais no conhecimento de <b>desenvolvimento web.</b><br>
 💬Pergunte-me sobre : HTML5,CSS3,BOOTSTRAP,JAVASCRIPT,PHP E MYSQL.<br>
 <a target="_blank" href="https://www.linkedin.com/in/elcio-pereira-9197821a3"/>
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
