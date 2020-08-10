@@ -1,9 +1,9 @@
 # Ola ! / Hi ! 👋
-🔭 Atualmente trabalhando como desenvolvedor web free-lance,front-end e back-end;
-💻 Faço faculdade de analise e desenvolvimento de sistemas na FATEC-Americana; 
-⚡Meu maior passatempo nos dias atuais é  me aprofundar mais no conhecimento de desenvolvimento web.
-💬Pergunte-me sobre : HTML5,CSS3,BOOTSTRAP,JAVASCRIPT,PHP E MYSQL.
-📫Redes sociais e contatos :<a target="_blank" href="https://www.linkedin.com/in/elcio-pereira-9197821a3/>
+🔭 Atualmente trabalhando como desenvolvedor web free-lance,front-end e back-end;<br>
+💻 Faço faculdade de analise e desenvolvimento de sistemas na FATEC-Americana; <br>
+⚡Meu maior passatempo nos dias atuais é  me aprofundar mais no conhecimento de desenvolvimento web.<br>
+💬Pergunte-me sobre : HTML5,CSS3,BOOTSTRAP,JAVASCRIPT,PHP E MYSQL.<br>
+📫Redes sociais e contatos :<a target="_blank" href="https://www.linkedin.com/in/elcio-pereira-9197821a3"/>
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=55983414082">
@@ -18,7 +18,7 @@
 🌱 💻 Faculty of analysis and systems development at FATEC -Americana, in progress;
 ⚡My biggest hobby nowadays is to go deeper into the knowledge of web development.
 💬 Ask me about: HTML5,CSS3,Bootstrap,Javascript,PHP and MYSQL.
-📫 How to reach me:<a target="_blank" href="https://www.linkedin.com/in/elcio-pereira-9197821a3/>
+📫 How to reach me:<a target="_blank" href="https://www.linkedin.com/in/elcio-pereira-9197821a3/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=55983414082">
