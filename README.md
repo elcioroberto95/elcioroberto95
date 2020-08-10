@@ -13,10 +13,10 @@
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a><br>
 <hr><br>
-🔭 I'm currently working on freelance developer using html5, css3, boostrap, javascript and php.<br>
-💻 Technological course of analysis and development of systems in progress;<br>
-⚡My biggest hobby nowadays is to go deeper into the knowledge of web development;<br>
-💬 Ask me about: HTML5,CSS3,Bootstrap,Javascript,PHP and MYSQL.<br>
+🔭 I'm <b>currently</b> working on <b>freelance developer</b> using html5, css3, boostrap, javascript and php.<br>
+💻<b>Technological course</b> of <b>analysis and development of systems in progress</b>;<br>
+⚡<b>My biggest hobby</b> nowadays is to go deeper into the knowledge of web development;<br>
+💬 <b>Ask me about:</b> HTML5,CSS3,Bootstrap,Javascript,PHP and MYSQL.<br><br>
 <a target="_blank" href="https://www.linkedin.com/in/elcio-pereira-9197821a3/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
