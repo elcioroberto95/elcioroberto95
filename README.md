@@ -3,7 +3,7 @@
 💻 Faço faculdade de analise e desenvolvimento de sistemas na FATEC-Americana; <br>
 ⚡Meu maior passatempo nos dias atuais é  me aprofundar mais no conhecimento de desenvolvimento web.<br>
 💬Pergunte-me sobre : HTML5,CSS3,BOOTSTRAP,JAVASCRIPT,PHP E MYSQL.<br>
-📫Redes sociais e contatos :<a target="_blank" href="https://www.linkedin.com/in/elcio-pereira-9197821a3"/>
+<a target="_blank" href="https://www.linkedin.com/in/elcio-pereira-9197821a3"/>
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=55983414082">
@@ -18,7 +18,7 @@
 🌱 💻 Faculty of analysis and systems development at FATEC -Americana, in progress;<br>
 ⚡My biggest hobby nowadays is to go deeper into the knowledge of web development.<br>
 💬 Ask me about: HTML5,CSS3,Bootstrap,Javascript,PHP and MYSQL.<br>
-📫 How to reach me:<a target="_blank" href="https://www.linkedin.com/in/elcio-pereira-9197821a3/">
+<a target="_blank" href="https://www.linkedin.com/in/elcio-pereira-9197821a3/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=55983414082">
