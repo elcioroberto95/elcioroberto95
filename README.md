@@ -14,10 +14,10 @@
 </a>
 <hr>
 
-🔭 I'm currently working on freelance developer using html5, css3, boostrap, javascript and php.
-🌱 💻 Faculty of analysis and systems development at FATEC -Americana, in progress;
-⚡My biggest hobby nowadays is to go deeper into the knowledge of web development.
-💬 Ask me about: HTML5,CSS3,Bootstrap,Javascript,PHP and MYSQL.
+🔭 I'm currently working on freelance developer using html5, css3, boostrap, javascript and php.<br>
+🌱 💻 Faculty of analysis and systems development at FATEC -Americana, in progress;<br>
+⚡My biggest hobby nowadays is to go deeper into the knowledge of web development.<br>
+💬 Ask me about: HTML5,CSS3,Bootstrap,Javascript,PHP and MYSQL.<br>
 📫 How to reach me:<a target="_blank" href="https://www.linkedin.com/in/elcio-pereira-9197821a3/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -28,7 +28,7 @@
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-[Elcio GitHub Stats](https://github-readme-stats.vercel.app/api?username=elcioroberto95&show_icons=true)
+![Elcio GitHub Stats](https://github-readme-stats.vercel.app/api?username=elcioroberto95&show_icons=true)
 
 
 <!--
