@@ -13,7 +13,6 @@
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a><br>
 <hr><br>
-
 🔭 I'm currently working on freelance developer using html5, css3, boostrap, javascript and php.<br>
 💻 Technological course of analysis and development of systems in progress;<br>
 ⚡My biggest hobby nowadays is to go deeper into the knowledge of web development;<br>
