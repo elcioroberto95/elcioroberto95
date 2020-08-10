@@ -11,8 +11,8 @@
 </a>
 <a target="_blank" href="mailto:elcioroberto1995@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<hr>
+</a><br<br>
+<hr><br><br>
 
 🔭 I'm currently working on freelance developer using html5, css3, boostrap, javascript and php.<br>
 🌱 💻 Faculty of analysis and systems development at FATEC -Americana, in progress;<br>
@@ -27,7 +27,7 @@
 <a target="_blank" href="mailto:elcioroberto1995@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-
+<hr><br><br>
 ![Elcio GitHub Stats](https://github-readme-stats.vercel.app/api?username=elcioroberto95&show_icons=true)
 
 
