@@ -1,5 +1,5 @@
 # Ola ! / Hi ! 👋
-🔭 Atualmente trabalhando como <b>desenvolvedor web free-lance</b>,front-end e back-end;<br>
+🔭 Atualmente trabalhando como <b>desenvolvedor web</b> free-lance,front-end e back-end;<br>
 💻 Faculdade de <b>Análise e desenvolvimento de sistemas</b> na FATEC-Americana,em andamento ; <br>
 ⚡<b>Passatempo:</b> me aprofundar mais nos conhecimentos sobre <b>desenvolvimento web;</b><br>
 💬<b>Pergunte-me sobre :</b> HTML5,CSS3,BOOTSTRAP,JAVASCRIPT,PHP E MYSQL.<br><br>
