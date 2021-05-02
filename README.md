@@ -1,5 +1,4 @@
 # Ola ! / Hi ! 👋
-🔭 Atualmente trabalhando como <b>desenvolvedor web</b> free-lance,front-end e back-end.<br>
 💻 Faculdade de <b>Análise e desenvolvimento de sistemas</b> na FATEC-Americana,em andamento ; <br>
 ⚡<b>Passatempo:</b> me aprofundar mais nos conhecimentos sobre desenvolvimento web;<br>
 💬<b>Pergunte-me sobre :</b> HTML5,CSS3,BOOTSTRAP,JAVASCRIPT,React.JS,PHP E MYSQL.<br><br>
@@ -13,7 +12,6 @@
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a><br>
 <hr><br>
-🔭 I'm <b>currently</b> working on <b>freelance developer.</b> <br>
 💻<b>Technological course</b> of <b>analysis and development of systems in progress</b>;<br>
 ⚡<b>My biggest hobby</b> nowadays is to go deeper into the knowledge of web development;<br>
 💬 <b>Ask me about:</b> HTML5,CSS3,Bootstrap,Javascript,React.JS,PHP and MYSQL.<br><br>
