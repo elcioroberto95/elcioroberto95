@@ -1,4 +1,4 @@
-# Ola ! / Hi ! 👋
+
 💻 Faculdade de <b>Análise e desenvolvimento de sistemas</b> na FATEC-Americana,em andamento ; <br>
 ⚡<b>Passatempo:</b> me aprofundar mais nos conhecimentos sobre desenvolvimento web;<br>
 💬<b>Pergunte-me sobre :</b> HTML5,CSS3,BOOTSTRAP,JAVASCRIPT,React.JS,PHP E MYSQL.<br><br>
